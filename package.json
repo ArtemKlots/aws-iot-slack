@@ -1,0 +1,8 @@
+{
+  "name": "aws-iot-slack",
+  "author": "Artem Klots",
+  "version": "1.0.0",
+  "description": "Simple lambda function which should send message to slack on IoT Button Events",
+  "main": "index.js",
+  "dependencies": {}
+}
